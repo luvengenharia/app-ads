@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "routes": [
+    { "src": "^/app-ads\\.txt$", "dest": "/app-ads.txt" }
+  ]
+}
